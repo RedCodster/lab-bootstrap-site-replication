@@ -1,0 +1,38 @@
+
+
+.left {
+  float: left;
+  height: 310px;
+  background-image: url("http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/08/unicorn.png");
+  background-size: 100% auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.right {
+  float: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.rtop {
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/01/Incognito.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+
+.rright {
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/01/Incognito.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+
+.rleft {
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/01/Incognito.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
